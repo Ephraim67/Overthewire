@@ -63,7 +63,7 @@ But in early levels like Natas0–Natas3, these headers are not important. You s
    * View page source:
 
      ```
-     <!-- The password for natas1 is XXXXXX -->
+     <!--The password for natas1 is 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq -->
      ```
    * That’s your password for Natas1.
   
